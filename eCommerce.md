@@ -30,6 +30,7 @@ Scoring: 1 (Low/Poor) – 5 (High/Excellent)
 |11 | Open-source headless stack (e.g., Spree + Vendure + custom CPQ) | Self-host / cloud | 3 | 4–5 (code-driven) | 3 | 5 | $$–$$$ | Maximum control & license freedom | Higher engineering load, no “out-of-box” B2B |
 
 ──────────────────────────────────────────
+
 PART 2.  Mapping the choices to your business goals
 ──────────────────────────────────────────
 
