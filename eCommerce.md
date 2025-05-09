@@ -3,7 +3,7 @@ Below is a two-part answer.
 Part 1 – Competitive landscape at a glance (tabular).  
 Part 2 – How those differences map to the needs of a technology-hardware/solutions reseller and concrete recommendations.
 
-──────────────────────────────────────────
+─────────────────────────────────────
 PART 1.  Snapshot of 11 leading eCommerce options
 ──────────────────────────────────────────
 
